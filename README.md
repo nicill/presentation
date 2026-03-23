@@ -16,7 +16,7 @@ For more details on some of the above, check the following links:
 [ORCID](https://orcid.org/0000-0003-4521-9113)  
 [ResearchMap](https://researchmap.jp/7000014723)  
 [DBLP](https://dblp.org/pid/02/4232.html)  
-{ResearchGate](https://www.researchgate.net/profile/Yago-Diez)  
+[ResearchGate](https://www.researchgate.net/profile/Yago-Diez)  
 [Publons](https://publons.com/researcher/1686699/yago-diez-donoso/)  
 
 
