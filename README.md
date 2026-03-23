@@ -12,7 +12,7 @@ For more details on some of the above, check the following links:
 
 [Index Page With the Colab Notebooks of the Courses I am teaching](https://colab.research.google.com/drive/1mjBugZmwa6OSxNaqkrCu4OCslKf2Wy7P?usp=sharing)  
 [Youtube Channel With my lesson Videos](https://www.youtube.com/@santiagodiezdonoso3368)  
-[Google Scholar](https://scholar.google.co.jp/citations?user=lVdYAn0AAAAJ&hl=en&oi=ao9)
+[Google Scholar](https://scholar.google.co.jp/citations?user=lVdYAn0AAAAJ&hl=en&oi=ao9)  
 [ORCID](https://orcid.org/0000-0003-4521-9113)  
 [ResearchMap](https://researchmap.jp/7000014723)  
 [DBLP](https://dblp.org/pid/02/4232.html)  
