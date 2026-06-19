@@ -19,4 +19,4 @@ For more details on some of the above, check the following links:
 [ResearchGate](https://www.researchgate.net/profile/Yago-Diez)  
 [Publons](https://publons.com/researcher/1686699/yago-diez-donoso/)  
 
-
+[My CV](https://www.dropbox.com/scl/fi/7u80zbnvqad2mc8bnqhp3/Curriculum_Vitae.pdf?rlkey=et0nsx6l7d00pbxuxzcfswvzr&st=5abusdj4&dl=0)
